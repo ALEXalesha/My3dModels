@@ -11,6 +11,7 @@ tested print settings.
 [![Blender](https://img.shields.io/badge/made_in-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
 
 [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+
 Models are built by Claude (Anthropic) in Claude Code through Blender. Ideas, printing and decisions - Alexey.
 
 ## Status
