@@ -6,11 +6,7 @@
 
 [English](README.md)
 
-[![Models: CC BY-NC 4.0](https://img.shields.io/badge/models-CC_BY--NC_4.0-lightgrey)](LICENSE)
-[![Status](https://img.shields.io/badge/status-in_progress-yellow)](#состояние)
-[![Blender](https://img.shields.io/badge/made_in-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
-
-[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![Status](https://img.shields.io/badge/status-in_development-orange)](#) [![Models: CC BY-NC 4.0](https://img.shields.io/badge/models-CC_BY--NC_4.0-lightgrey)](LICENSE) [![Blender](https://img.shields.io/badge/made_in-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/) [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
 
 Модели построены Claude (Anthropic) в Claude Code через Blender. Идеи, печать и решения - Алексей.
 
